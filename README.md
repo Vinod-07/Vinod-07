@@ -9,13 +9,13 @@
 
 - 📫 How to reach me **vinodreddy4103@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15LHYVgcY02k5Ba35wE-RVWacmAdIezkg/view?usp=drivesdk](https://drive.google.com/file/d/15LHYVgcY02k5Ba35wE-RVWacmAdIezkg/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bwvak2wi6WJUOnv8BL-0AWBeUS3qaENK/view?usp=sharing](https://drive.google.com/file/d/15LHYVgcY02k5Ba35wE-RVWacmAdIezkg/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vinod18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinod reddy" height="30" width="40" /></a>
 <a href="https://instagram.com/vinod_____18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinod_____18" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/weknowed_19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinod_____18" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/VinodReddy_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinod_____18" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
