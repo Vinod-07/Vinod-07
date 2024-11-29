@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vinodreddy4103@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bwvak2wi6WJUOnv8BL-0AWBeUS3qaENK/view?usp=sharing](https://drive.google.com/file/d/15LHYVgcY02k5Ba35wE-RVWacmAdIezkg/view?usp=drivesdk)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1bwvak2wi6WJUOnv8BL-0AWBeUS3qaENK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
